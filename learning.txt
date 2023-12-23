@@ -1,0 +1,6 @@
+install breeze
+composer require laravel/breeze:1.9.4
+php artisan breeze:install
+npm install
+npm run dev
+php artisan migrate
